@@ -1,0 +1,63 @@
+h1 {
+    font-size: 50px;
+    font-weight: 300;
+    margin: 52px 0px 25px 52px;
+}
+
+label .field {
+    font-size: 14px;
+    font-weight: 500;
+    margin-left: 52px;
+}
+
+.filter {
+    top: 245px;
+    left: 52px;
+    color: black;
+    font-size: 14px;
+    font-weight: 300;
+    position: absolute;
+}
+
+input {
+    width: 374px;
+    height: 48px;
+    border: 1px solid black;
+    margin: 5px 30px 10px 52px;
+}
+
+.search {
+    width: 120px;
+    height: 48px;
+    border: none;
+    color: white;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 400;
+    background: #833AE0;
+}
+
+table {
+    margin: 60px 0px 0px 52px;
+}
+table th {
+    font-size: 28px;
+    font-weight: 500;
+    padding-right: 190px;
+}
+.showLink {
+    padding-top: 20px;
+}
+.show {
+    color: black;
+    font-size: 14px;
+    font-weight: 300;
+    text-decoration: none;
+}
+.photo {
+    padding-top: 10px;
+}
+.coinPhoto {
+    width: 214px;
+    height: 214px;
+}

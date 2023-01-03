@@ -1,0 +1,117 @@
+.coinPhoto_1, .coinPhoto_2, .coinPhoto_3, .coinPhoto_4, .coinPhoto_5, .coinPhoto_6, .coinPhoto_7, .coinPhoto_8 {
+    width: 120px;
+    height: 120px;
+    cursor: pointer;
+    position: absolute;
+}
+.coinPhoto_1 {
+    top: 300px;
+    left: 52px;
+}
+.coinPhoto_2 {
+    top: 450px;
+    left: 52px;
+}
+.coinPhoto_3 {
+    top: 600px;
+    left: 52px;
+}
+.coinPhoto_4 {
+    top: 750px;
+    left: 52px;
+}
+.coinPhoto_5 {
+    top: 300px;
+    left: 575px;
+}
+.coinPhoto_6 {
+    top: 450px;
+    left: 575px;
+}
+.coinPhoto_7 {
+    top: 600px;
+    left: 575px;
+}
+.coinPhoto_8 {
+    top: 750px;
+    left: 575px;
+    padding-bottom: 25px;
+}
+
+.coinName_1, .coinName_2, .coinName_3, .coinName_4, .coinName_5, .coinName_6, .coinName_7, .coinName_8 {
+    font-size: 16px;
+    font-weight: 700;
+    color: #833AE0;
+    position: absolute;
+}
+.coinName_1 {
+    top: 290px;
+    left: 220px;
+}
+.coinName_2 {
+    top: 440px;
+    left: 220px;
+}
+.coinName_3 {
+    top: 590px;
+    left: 220px;
+}
+.coinName_4 {
+    top: 740px;
+    left: 220px;
+}
+.coinName_5 {
+    top: 290px;
+    left: 725px;
+}
+.coinName_6 {
+    top: 440px;
+    left: 725px;
+}
+.coinName_7 {
+    top: 590px;
+    left: 725px;
+}
+.coinName_8 {
+    top: 740px;
+    left: 725px;
+}
+
+.info_1, .info_2, .info_3, .info_4, .info_5, .info_6, .info_7, .info_8 {
+    width: 224px;
+    font-size: 12px;
+    font-weight: 400;
+    position: absolute;
+}
+.info_1 {
+    top: 325px;
+    left: 220px;
+}
+.info_2 {
+    top: 475px;
+    left: 220px;
+}
+.info_3 {
+    top: 625px;
+    left: 220px;
+}
+.info_4 {
+    top: 775px;
+    left: 220px;
+}
+.info_5 {
+    top: 325px;
+    left: 725px;
+}
+.info_6 {
+    top: 475px;
+    left: 725px;
+}
+.info_7 {
+    top: 625px;
+    left: 725px;
+}
+.info_8 {
+    top: 775px;
+    left: 725px;
+}

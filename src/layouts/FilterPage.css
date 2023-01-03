@@ -1,0 +1,92 @@
+label .country {
+    font-size: 14px;
+    font-weight: 500;
+    padding: 50px 0px 0px 52px;
+}
+
+label .metal, label .quality {
+    font-size: 14px;
+    font-weight: 500;
+    padding: 20px 0px 0px 52px;
+}
+
+label select {
+    width: 374px;
+    height: 48px;
+    font-size: 20px;
+    font-weight: 300;
+    margin-left: 52px;
+    border: 1px solid black;
+}
+
+label .price {
+    top: 283px;
+    left: 465px;
+    font-size: 14px;
+    font-weight: 500;
+    position: absolute;
+}
+label .priceFrom {
+    top: 330px;
+    left: 465px;
+    font-size: 14px;
+    font-weight: 300;
+    position: absolute;
+}
+label .priceInputFrom {
+    top: 320px;
+    left: 455px;
+    width: 155px;
+    height: 48px;
+    position: absolute;
+}
+label .priceTo {
+    top: 330px;
+    left: 710px;
+    font-size: 14px;
+    font-weight: 300;
+    position: absolute;
+}
+label .priceInputTo {
+    top: 320px;
+    left: 685px;
+    width: 155px;
+    height: 48px;
+    position: absolute;
+}
+
+label .year {
+    top: 395px;
+    left: 465px;
+    font-size: 14px;
+    font-weight: 500;
+    position: absolute;
+}
+label .yearFrom {
+    top: 442px;
+    left: 465px;
+    font-size: 14px;
+    font-weight: 300;
+    position: absolute;
+}
+label .yearInputFrom {
+    top: 432px;
+    left: 455px;
+    width: 155px;
+    height: 48px;
+    position: absolute;
+}
+label .yearTo {
+    top: 442px;
+    left: 710px;
+    font-size: 14px;
+    font-weight: 300;
+    position: absolute;
+}
+label .yearInputTo {
+    top: 432px;
+    left: 685px;
+    width: 155px;
+    height: 48px;
+    position: absolute;
+}

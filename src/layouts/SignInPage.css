@@ -1,0 +1,28 @@
+label {
+    height: 48px;
+    width: 120px;
+    font-size: 14px;
+    font-weight: 500;
+}
+label .login {
+    margin: 150px 0px 0px 453px;
+}
+label .password {
+    margin: 20px 0px 0px 453px;
+}
+label .loginInput, .passwordInput {
+    margin: 5px 0px 0px 453px;
+}
+.signInBtn {
+    top: 445px;
+    left: 580px;
+    width: 120px;
+    height: 48px;
+    border: none;
+    color: white;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 400;
+    position: absolute;
+    background: #833AE0;
+}
